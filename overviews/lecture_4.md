@@ -103,7 +103,9 @@
         - DROP DATABASE database_name
 
     - Създаване /унищожаване на пространство.
-        `ACQUIRE [PUBLIC | PRIVATE] DBSPACE 
-        NAMED dbspace_name [option [option]...] 
-        Option: LOCK = {DBSPACE| PAGE | ROW} 
-        DROP DBSPACE dbspace_name`
+        <br>
+            ACQUIRE [PUBLIC | PRIVATE] DBSPACE 
+            NAMED dbspace_name [option [option]...] 
+            Option: LOCK = {DBSPACE| PAGE | ROW} 
+            DROP DBSPACE dbspace_name`
+        </br>
