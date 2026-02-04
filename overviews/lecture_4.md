@@ -106,6 +106,6 @@
         <br>
             ACQUIRE [PUBLIC | PRIVATE] DBSPACE 
             NAMED dbspace_name [option [option]...] 
-            Option: LOCK = {DBSPACE| PAGE | ROW} 
-            DROP DBSPACE dbspace_name`
         </br>
+        - Option: LOCK = {DBSPACE| PAGE | ROW} 
+        - DROP DBSPACE dbspace_name`
